@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ирина Лазарева](https://up.htmlacademy.ru/javascript/21/user/954381).
-* Наставник: `Неизвестно`.
+* Наставник: [Максим Прусаков](https://up.htmlacademy.ru/javascript/21/user/83559).
 
 ---
 
